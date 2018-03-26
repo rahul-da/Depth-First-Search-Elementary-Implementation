@@ -4,4 +4,5 @@ I have tried to explain the algorithm by implementing it on the problem.
 I have kept the variable names easy to understand and name server their purpose. 
 Happy Learning :)
 
-Problem Link : http://acm.timus.ru/problem.aspx?space=1&num=1362
+Problem1 Link : http://acm.timus.ru/problem.aspx?space=1&num=1362
+Problem2 Link : http://codeforces.com/contest/832/problem/D
