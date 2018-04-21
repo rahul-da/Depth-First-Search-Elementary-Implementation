@@ -5,4 +5,6 @@ I have kept the variable names easy to understand and name server their purpose.
 Happy Learning :)
 
 Problem1 Link : http://acm.timus.ru/problem.aspx?space=1&num=1362
+
+
 Problem2 Link : http://codeforces.com/contest/832/problem/D
